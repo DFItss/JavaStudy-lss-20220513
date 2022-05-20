@@ -4,6 +4,7 @@ public class Star01 {
 
 	public static void main(String[] args) {
 		
+		
 		/* 숙제1>
 		 *     *
 		 *    **
@@ -11,6 +12,7 @@ public class Star01 {
 		 *  ****
 		 * ***** 
 		 */ 
+		
 		for(int i=0; i<5; i++) {
 			
 			for(int j=0; j<4-i; j++) {
